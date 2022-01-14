@@ -1,7 +1,7 @@
-### Hi there 👋
-![Screen Shot 2021-12-16 at 2 09 35 PM](https://user-images.githubusercontent.com/23273806/146433797-d9d3dfb6-4298-4c4e-86d3-c874d722d118.png)
+### Hi there, im Trevor 👋
 ***
-### Info
+I am a software engineer living in the Atlanta Metropolitan Area, working on design and development of websites.
+
 ***
 # Languages
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
