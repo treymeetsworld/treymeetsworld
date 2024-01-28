@@ -41,14 +41,6 @@ I am a software engineer living in the Atlanta Metropolitan Area, working on des
 <a href="https://www.linkedin.com/in/tmwangi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />  </a>
 <a href="https://trevormwangi.com"><img src="https://img.shields.io/badge/-Personal_Website-000000?style=flat-square&logo=Coderwall&logoColor=white" />  </a>
 
-
-
-
-***
-[![Trevor's GitHub stats](https://github-readme-stats.vercel.app/api?username=treymeetsworld&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/treymeetsworld/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=treymeetsworld&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/treymeetsworld/github-readme-stats)
-
 <!--
 **treymeetsworld/treymeetsworld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
